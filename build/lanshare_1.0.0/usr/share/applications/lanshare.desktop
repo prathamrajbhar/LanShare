@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=LanShare
+Exec=lanshare
+Icon=lanshare
+Type=Application
+Categories=Network;Utility;
+Terminal=false
+Comment=Peer-to-peer LAN file sharing

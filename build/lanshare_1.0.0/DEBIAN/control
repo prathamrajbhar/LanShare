@@ -1,0 +1,8 @@
+Package: lanshare
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Pratham <pratham@example.com>
+Description: LanShare file sharing application
+ A simple, cross-platform LAN file sharing application built with Python.
